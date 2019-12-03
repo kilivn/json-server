@@ -1,0 +1,58 @@
+{
+  "barrios": [
+    {
+      "id": 1,
+      "nombre": "San Roque",
+      "productos": [
+        {
+          "chocolate": {
+            "precio": 130
+          },
+          "harina": {
+            "precio": 2000
+          },
+          "perejil": {
+            "precio": 127
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "nombre": "La Mina",
+      "productos": [
+        {
+          "chocolate": {
+            "precio": 130
+          },
+          "harina": {
+            "precio": 2000
+          },
+          "perejil": {
+            "precio": 127
+          },
+          "caramelos" : {
+            "precio": 1250
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "nombre": "La Verneda",
+      "productos": [
+        {
+          "chocolate": {
+            "precio": 130
+          },
+          "perejil": {
+            "precio": 127
+          },
+          "champiñones": {
+            "precio": 749
+          }
+        }
+      ]
+    }
+  ]
+}
