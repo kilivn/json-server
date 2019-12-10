@@ -5,15 +5,18 @@
       "nombre": "San Roque",
       "productos": [
         {
-          "chocolate": {
+          "chocolate": [{
+            "id": 1,
             "precio": 130
-          },
-          "harina": {
+          }],
+          "harina": [{
+            "id": 2,
             "precio": 2000
-          },
-          "perejil": {
+          }],
+          "perejil": [{
+            "id": 3,
             "precio": 127
-          }
+          }]
         }
       ]
     },
@@ -22,18 +25,22 @@
       "nombre": "La Mina",
       "productos": [
         {
-          "chocolate": {
+          "chocolate": [{
+            "id": 1,
             "precio": 130
-          },
-          "harina": {
+          }],
+          "harina": [{
+            "id": 2,
             "precio": 2000
-          },
-          "perejil": {
+          }],
+          "perejil": [{
+            "id": 3,
             "precio": 127
-          },
-          "caramelos" : {
+          }],
+          "caramelos" : [{
+            "id": 4,
             "precio": 1250
-          }
+          }]
         }
       ]
     },
@@ -42,15 +49,18 @@
       "nombre": "La Verneda",
       "productos": [
         {
-          "chocolate": {
+          "chocolate": [{
+            "id": 1,
             "precio": 130
-          },
-          "perejil": {
+          }],
+          "perejil": [{
+            "id": 3,
             "precio": 127
-          },
-          "champiñones": {
+          }],
+          "champiñones": [{
+            "id": 5,
             "precio": 749
-          }
+          }]
         }
       ]
     }
