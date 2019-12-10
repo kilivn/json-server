@@ -6,15 +6,15 @@
       "productos": [
         {
           "chocolate": {
-            "id": 1
+            "id": 1,
             "precio": 130
           },
           "harina": {
-            "id": 2
+            "id": 2,
             "precio": 2000
           },
           "perejil": {
-            "id": 3
+            "id": 3,
             "precio": 127
           }
         }
@@ -26,19 +26,19 @@
       "productos": [
         {
           "chocolate": {
-            "id": 1
+            "id": 1,
             "precio": 130
           },
           "harina": {
-            "id": 2
+            "id": 2,
             "precio": 2000
           },
           "perejil": {
-            "id": 3
+            "id": 3,
             "precio": 127
           },
           "caramelos" : {
-            "id": 4
+            "id": 4,
             "precio": 1250
           }
         }
@@ -50,15 +50,15 @@
       "productos": [
         {
           "chocolate": {
-            "id": 1
+            "id": 1,
             "precio": 130
           },
           "perejil": {
-            "id": 3
+            "id": 3,
             "precio": 127
           },
           "champiñones": {
-            "id": 9
+            "id": 5,
             "precio": 749
           }
         }
